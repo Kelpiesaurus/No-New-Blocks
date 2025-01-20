@@ -1,0 +1,37 @@
+[
+	{
+    "mob": "minecraft:pillager",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:vindicator",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:evoker",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:ravager",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:villager",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:zombie_villager",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:zombie",
+    "when": "onjoin",
+    "result": "deny"
+  }
+]
