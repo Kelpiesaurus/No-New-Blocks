@@ -33,5 +33,17 @@
     "mob": "minecraft:zombie",
     "when": "onjoin",
     "result": "deny"
+  },
+  {
+    "mob": "minecraft:cat",
+    "dimension": "minecraft:overworld",
+    "biome": "minecraft:desert",
+    "result": "default"
+  },
+  {
+    "mob": "minecraft:cat",
+    "dimension": "minecraft:overworld",
+    "incontrol": true,
+    "result": "deny"
   }
 ]
